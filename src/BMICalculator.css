@@ -51,7 +51,7 @@ body {
   }
   
   .calculate-btn {
-    background: #007bff;
+    background: rgb(128, 219, 128);
     color: white;
     border: none;
     padding: 10px;
