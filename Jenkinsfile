@@ -10,8 +10,8 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building the application using npm install'
-                //this stage installs dependencies and compiles the application
+                echo 'Building the application using NPM'
+                //this stage installs dependencies and compiles the application (like npm install)
                 //[Other Available Tools for various project types --> Maven, Gradle, yarn]
             }
         }
