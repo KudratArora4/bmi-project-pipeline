@@ -4,7 +4,7 @@ pipeline {
     environment {
         STAGING_ENV = 'AWS EC2'      //Staging environment --> example
         PRODUCTION_ENV = 'AWS EC2'  //Production environment --> example
-        EMAIL = 'arorakudrat19@gmail.com'
+        EMAIL = 'kudratskarora@gmail.com'
     }
 
     stages {
